@@ -32,8 +32,8 @@ Mithilfe der Dockerfile kann ein Image/Container erstellt werden, welcher bereit
 
 **4. Pull Request erstellen und von anderem Dev prüfen lassen** 
 
-## Benutzung wie?
-1. Installiere TamperMonkey (die Browsererweiterung)
-2. Gehe auf https://github.com/rplacebonjwa/rplace/blob/main/overlay.user.js und installiere das Skript
-3. ?
-4. Pixeln!
+## Wie installiere und benutze ich das Overlay?
+1. Installiere [TamperMonkey (die Browsererweiterung)](https://www.tampermonkey.net/index.php)
+2. Gehe auf https://github.com/rplacebonjwa/rplace/raw/main/overlay.user.js, TamperMonkey sollte das Skript erkennen und du kannst es installieren.
+3. Pixeln auf [r/place](https://www.reddit.com/r/place) !
+4. Das Overlay wird automatisch geupdated, es kann aber sein, dass es durch Caching ein bisschen dauert bis aktuelle Änderungen angezeigt werden.
